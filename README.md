@@ -96,6 +96,13 @@ outputs/users.json
 
 ---
 
+## 📸 Demo
+
+### Agent Output
+![Agent Output]("C:\Users\91837\Pictures\Screenshots\Terminal-Demo.png")
+
+---
+
 ## 🎯 What I Learned
 
 - Building local LLM applications
